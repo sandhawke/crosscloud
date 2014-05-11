@@ -8,26 +8,25 @@ tendency to lock-in users, so we need a good way to cross between
 these different "clouds".  This vision goes beyond what is provided
 today by cloud data storage services like owncloud and dropbox, in
 that it requires applications to use interoperable data formats and
-support integrated social data sharing.  The goal is here is that when
+support integrated social data sharing.  The goal is that when
 users select different products, they never lose access to what
 they've been doing and the people they've been doing it with.
 
-The flagship crosscloud application is cimba, a microblogging tool
-similar to Twitter and others, but decentralized.  Cimba users can
-switch to another crosscloud microblogging app and still see the same
-social network with the same posts and the same metadata.  More
-impressively, they can also switch vendors for their back-end data
-storage with no impact on user experience for themselves or their
-contacts.
-
-Many other crosscloud applications are possible, spanning the whole
-range of Web 2.0 success stories.   For some details see @@apps..
+The flagship crosscloud application is cimba, a microblogging tool.
+Cimba users get roughly the same functionality as provided by Twitter,
+Facebook news feeds, etc, but they can switch to another crosscloud
+microblogging app and still see the same social network with the same
+posts and the same metadata.  More impressively, they can also switch
+vendors for their back-end data storage with no impact on user
+experience for themselves or their contacts.  Many other crosscloud
+applications are possible, spanning the whole range of Web 2.0 success
+stories and more.  For some details see @@apps..
 
 ## Benefits
 
-While consumers having a freedom of choice in the market may seem like
-a goal it itself, its value comes from what else it will enable.  Some
-of the benefits of using crosscloud software:
+Freedom of choice in the market may seems like a goal in itself,
+but its real value becomes clear when we consider the benefits that
+will come with that freedom and the commitment to decentralization:
 
   - **Innovation.** When your data and social connections are locked
       in to one platform or application, it's hard to try out
@@ -37,12 +36,12 @@ of the benefits of using crosscloud software:
       system, too.  Can you get all your friends or colleagues to
       move at the same time?  And if people like you don't switch, new
       systems will fail for lack of users.  When users are locked in,
-      innovaation is locked out.
+      innovation is locked out.
 
   - **Connection.** For a variety of reasons, certain people you know
       probably can't or won't use any particular social networking
-      platform.  This makes it hard to difficult to connect with them
-      online, whether it's for real work or just for fun.  With a
+      platform.  This makes it hard to connect with them
+      online, whether it's for work or just for fun.  With a
       large enough group of people (sometimes only 5 or 10) it's
       impossible to find a platform they all use.  In contrast, With
       crossclouds software, people will have a wide variety of vendors and
@@ -61,7 +60,7 @@ of the benefits of using crosscloud software:
   - **Privacy.** Although some invasions of privacy are due to
       failures in data security, many are part of routine business on
       the Internet today.  Advertising supported products, in general,
-      coerce users to grant intimate access to their data.  Crosscould
+      coerce users to grant intimate access to their data.  Crosscloud
       systems don't prevent such access, but they do give users
       freedom to choose alternatives.
 
@@ -70,7 +69,7 @@ of the benefits of using crosscloud software:
       subsystem is repeatedly unreliable, users can easily switch
       providers.
 
-  - **Freedom of Choice.** If you don't like an application or data
+  - @@? If you don't like an application or data
       service provider, you can easily go elsewhere.  If there's
       no one in the market providing what you want, you can built it
       yourself (or hire someone to build it).
