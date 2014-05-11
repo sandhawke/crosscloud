@@ -1,33 +1,76 @@
 
 # Crosscloud
 
-Crosscloud is envisioned as a system of independently-operated apps
-and servers which cooperate in giving people the freedom to move easily
-between them.  At heart, the system will work by giving each user one
-or more server "pods" where their data resides and having the apps operate on
-that data through standard interfaces.  This separation means users
-remain free to try out other software products and services, never
-being locked in.   This has a variety of benefits, such as...
+Crosscloud is a system being developed to allow people to painlessly
+move between applications, taking their data with them.  The name
+comes from the observation that cloud-based software has a strong
+tendency to lock users in, and we need a good way to cross between
+these different "clouds".
+
+Building crosscloud is an open source and open standards effort, as
+various people work on the technical challenges and gradually
+standardize bits that become well understood.  The technology stack is
+based on [Linked Data](http://en.wikipedia.org/wiki/Linked_data) and
+standards work is primary done at W3C.
 
 ## Benefits
 
-  - Innovation: Cool new stuff, which you can try out painlessly.  No social network lock in
+In a crosscloud world, where people retain control over their data and
+the ability to use it anywhere, we will see several benefits:
 
-  - Connection: For a variety of reasons, certain people you know probably can't or won't use any particular social networking platform, making it difficult to connect with them online and making it impossible to connect everyone in a large group.   With Crosscloud, people will have a wide variety of vendors and platforms to choose from; as long as each person can find one that works for them, you can all all be connected.
+  - **Innovation.** When your data and social connections are locked
+      in to one platform or application, it's hard to try out
+      interesting alternatives.  Even if you try them, it's hard to
+      make the switch, because all your history and previous work is
+      in your old system.  Your social connections are on the old
+      system, too.  Can you get all your friends or colleagues to
+      move at the same time?  And if people like you don't switch, new
+      systems will fail for lack of users.  When users are locked in,
+      innovaation is locked out.
 
-  - Stability: You can keep using the same version of the software as long as someone is willing to support it.  No more being forced to accept every product change or give up the product.
+  - **Connection.** For a variety of reasons, certain people you know
+      probably can't or won't use any particular social networking
+      platform.  This makes it hard to difficult to connect with them
+      online, whether it's for real work or just for fun.  With a
+      large enough group of people (sometimes only 5 or 10) it's
+      impossible to find a platform they all use.  In contrast, With
+      crosscloud, people will have a wide variety of vendors and
+      platforms to choose from.  As long as each person can find one
+      that works for them, you can all be connected.
 
-  - Security: Because crosscloud products never lock you are in, you are free to seek out providers who offer high levels of data security.   Because everyone is free to do this, we expect in time the market will provide great options here.
+  - **Stability.** You can keep using the same version of the software
+      as long as someone is willing to support it.  No more being
+      forced to accept every product change or give up the product.
 
-  - Privacy: Although some invasions of privacy are due to failures in data security, many are part of routine business on the Internet today.   Advertising supported products, in general, require users grant intimate access to their data.  Crosscould systems don't prevent such access, but they do give users freedom to choose alternatives.
+  - **Security.** Because crosscloud products never lock you are in,
+      you are free to seek out providers who offer high levels of data
+      security.  Because everyone is free to do this, we expect in
+      time the market will provide many strong options.
 
-  - Reliability: The overall system will have no single point of failure (given working Internet).  If any subsystem is repeatedly unreliable, users can easily switch providers.
+  - **Privacy.** Although some invasions of privacy are due to
+      failures in data security, many are part of routine business on
+      the Internet today.  Advertising supported products, in general,
+      coerce users to grant intimate access to their data.  Crosscould
+      systems don't prevent such access, but they do give users
+      freedom to choose alternatives.
 
-  - Freedom of Choice: if you don't like it, you can go elsewhere.  If there's no where else to go, it's feasible to build your own place, or hire someone to. 
+  - **Reliability.** The overall system will have no single point of
+      failure (beyond IP connectivity and maybe the DNS).  If any
+      subsystem is repeatedly unreliable, users can easily switch
+      providers.
 
-  - Appropriate Controls: The system is flexible about where control resides.  In consumer apps, it can stay with the user.   But with enterprise apps, it's feasible to have control remail with the enterprise.
+  - **Freedom of Choice.** If you don't like an application or data
+      service provider, you can easily go elsewhere.  If there's
+      no one in the market providing what you want, you can built it
+      yourself (or hire someone to build it).
 
-  - Cost Savings: because the barriers to entry for competitors are much lower, prices are likely to be lower
+  - **Appropriate Controls.** The system is flexible about where
+      control resides.  In consumer apps, it can stay with the user.
+      But with enterprise apps, it's feasible to have control remain
+      with the enterprise.
+
+  - **Cost Savings.** because the barriers to entry for competitors
+      are much lower, prices are likely to be lower.
 
 ## The Challenge
 
