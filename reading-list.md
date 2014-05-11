@@ -23,7 +23,7 @@ Slides from a talk to the MIT Linked Data Ventures class.   Lays out some motiva
 
 Dec 2000, Tim Berners-Lee
 
-Shows how simple and general the RDF model is, and how easy it is to use in N3 (which is basically the same as Turtle.
+Shows how simple and general the RDF model is, and how easy it is to use in N3 (which is basically the same as W3C Turtle).
 
 
 
@@ -41,9 +41,9 @@ Sandro says: I think we can converge with much of this functionality.   Note the
 
 
 
-### [An Introduction to Linked Data](https://vimeo.com/12444260) (38min video)
+### [An Introduction to Linked Data](https://vimeo.com/12444260) (38min video, [slides](http://www.w3.org/2010/Talks/0608-linked-data/))
 
-2010, Sandro Hawke
+Jun 2010, Sandro Hawke
 
 General video tutorial on Linked Data, going into some detail on how things are identified with IRIs.
 
