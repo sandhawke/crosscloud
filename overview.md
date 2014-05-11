@@ -2,31 +2,31 @@
 ## Vision
 
 The **crosscloud vision** is of people easily moving between
-applications, always able to access and control their own data.  The
+applications, always able to access and control their own data, never
+pressured to use products or services from any particular vendor.  The
 name comes from the observation that cloud-based software has a strong
-tendency to lock-in users, so we need a good way to cross between
-these different "clouds".  This vision goes beyond what is provided
-today by cloud data storage services like owncloud and dropbox, in
-that it requires applications to use interoperable data formats and
-support integrated social data sharing.  The goal is that when
-users select different products, they never lose access to what
-they've been doing and the people they've been doing it with.
+tendency to lock-in users and make them to use a particular platform.
+In response, we need a good way to cross between these different
+"clouds".  The goal is that users everywhere be free to use different
+products, and if they switch, they never lose access to what they've
+been doing and the people they've been doing it with.
 
 The flagship crosscloud application is cimba, a microblogging tool.
-Cimba users get roughly the same functionality as provided by Twitter,
-Facebook news feeds, etc, but they can switch to another crosscloud
+Cimba users get an experience like that provided by Twitter, Facebook
+news feeds, etc, but they can switch to another crosscloud
 microblogging app and still see the same social network with the same
 posts and the same metadata.  More impressively, they can also switch
 vendors for their back-end data storage with no impact on user
 experience for themselves or their contacts.  Many other crosscloud
-applications are possible, spanning the whole range of Web 2.0 success
-stories and more.  For some details see @@apps..
+applications are possible, spanning the whole range of Internet
+success stories and dreams of a connected world.  For some details see
+@@apps..
 
 ## Benefits
 
 Freedom of choice in the market may seems like a goal in itself,
 but its real value becomes clear when we consider the benefits that
-will come with that freedom and the commitment to decentralization:
+will come with that freedom:
 
   - **Innovation.** When your data and social connections are locked
       in to one platform or application, it's hard to try out
@@ -64,20 +64,17 @@ will come with that freedom and the commitment to decentralization:
       systems don't prevent such access, but they do give users
       freedom to choose alternatives.
 
-  - **Reliability.** The overall system will have no single point of
-      failure (beyond IP connectivity and maybe the DNS).  If any
-      subsystem is repeatedly unreliable, users can easily switch
-      providers.
+  - **Reliability.** A system providing the crosscloud functionality
+      has to be engineered without introducing any single point of
+      failure (since control over that point would mean control over
+      the system, and scaring away users and ecosystem participatens).
+      So the overall system is likely to be as reliable as the
+      Internet in general.  Individual servers might be unreliable,
+      but since users can easily switch, there should be strong market
+      pressure toward reliability.
 
-  - @@? If you don't like an application or data
-      service provider, you can easily go elsewhere.  If there's
-      no one in the market providing what you want, you can built it
-      yourself (or hire someone to build it).
+  - **Customizability.**  Also known as "hackability" or "modability", then ability of a system to be tinkered with and modified to suit particular needs is important to adoption and user satisfaction.  Centralized systems generally lack this, because any @@@     ... about about distributing mods?
 
-  - **Appropriate Controls.** The system is flexible about where
-      control resides.  In consumer apps, it can stay with the user.
-      But with enterprise apps, it's feasible to have control remain
-      with the enterprise.
 
   - **Cost Savings.** because the barriers to entry for competitors
       are much lower, prices are likely to be lower.
