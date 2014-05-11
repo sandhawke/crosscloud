@@ -15,9 +15,9 @@ being locked in.   This has a variety of benefits, such as...
 
   - Connection: For a variety of reasons, certain people you know probably can't or won't use any particular social networking platform, making it difficult to connect with them online and making it impossible to connect everyone in a large group.   With Crosscloud, people will have a wide variety of vendors and platforms to choose from; as long as each person can find one that works for them, you can all all be connected.
 
-   - Stability: You can keep using the same version of the software as long as someone is willing to support it.  No more being forced to accept every product change or give up the product.
+  - Stability: You can keep using the same version of the software as long as someone is willing to support it.  No more being forced to accept every product change or give up the product.
 
-   - Security: Because crosscloud products never lock you are in, you are free to seek out providers who offer high levels of data security.   Because everyone is free to do this, we expect in time the market will provide great options here.
+  - Security: Because crosscloud products never lock you are in, you are free to seek out providers who offer high levels of data security.   Because everyone is free to do this, we expect in time the market will provide great options here.
 
   - Privacy: Although some invasions of privacy are due to failures in data security, many are part of routine business on the Internet today.   Advertising supported products, in general, require users grant intimate access to their data.  Crosscould systems don't prevent such access, but they do give users freedom to choose alternatives.
 
