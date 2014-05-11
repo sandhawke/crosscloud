@@ -1,4 +1,6 @@
-crosscloud
-==========
+## Crosscloud Documentation and Coordination
 
-General information and docs about Crosscloud
+This repository is for various documents of interest to people working
+on making crosscloud a reality.  Also, we have the issue tracker.  We
+don't expect to have code here.
+
