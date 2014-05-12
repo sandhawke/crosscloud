@@ -21,7 +21,7 @@ data storage with no impact on user experience for themselves or their
 contacts.  (At least that's the vision; it's not there yet.)  Many
 other crosscloud applications are possible, spanning the whole range
 of Internet success stories and dreams of a connected world (see
-[apps](apps.md)).
+[potential application areas](apps.md)).
 
 ## Benefits
 
@@ -65,7 +65,7 @@ will come with that freedom:
       systems don't prevent such access, but they do give users
       freedom to choose alternatives.
 
-  - **Reliability.** A system providing the crosscloud functionality
+  - **Reliability.** A system providing crosscloud functionality
       has to be engineered without introducing any single point of
       failure (since control over that point would mean control over
       the system, and scaring away users and ecosystem participatens).
@@ -74,10 +74,13 @@ will come with that freedom:
       but since users can easily switch, there should be strong market
       pressure toward reliability.
 
-  - **Customizability.**  Also known as "hackability" or "modability", then ability of a system to be tinkered with and modified to suit particular needs is important to adoption and user satisfaction.  Centralized systems generally lack this, because any @@@     ... about about distributing mods?
+  - **Customizability.** Also known as "hackability" or "modability",
+      then ability of a system to be tinkered with and modified to
+      suit particular needs is important to adoption and user
+      satisfaction.  Centralized systems generally lack this, because
+      @@@ ... what about distributing mods?
 
-
-  - **Cost Savings.** because the barriers to entry for competitors
+  - **Cost Savings.** Because the barriers to entry for competitors
       are much lower, prices are likely to be lower.
 
 ## Challenge
@@ -85,6 +88,8 @@ will come with that freedom:
 To make the crosscloud vision a reality, three main things have to happen:
 
 ### 1.  Research
+
+@@
 
 There are some open questions in computer science about whether it's
 feasible to build a decentralized system of this scale, with these
@@ -96,6 +101,8 @@ Prove that it can be built by building it.
 We encourage others to help, showing that it can be built.
 
 ### 2.  Standards
+
+@@
 
 If we know how to build a system like crosscloud, and we build three different ones that don't interoperate, we're not in good shape.
 
@@ -128,14 +135,11 @@ functionality to be provided with non-Linked Data technologies.
 
 ### 3.  Ecosystem
 
+@@
+
 If we build a single, unified system with all the right scaling properties, if customers can't find the products they want, we wont be done.
 
 This is going to require businesses seeing how they can make money offering crosscloud products and services.
-
-## Application Areas
-
-- **Microblogging.**
-
 
 ## Projects
 
