@@ -3,23 +3,25 @@
 
 The **crosscloud vision** is of people easily moving between
 applications, always able to access and control their own data, never
-pressured to use products or services from any particular vendor.  The
+forced to use products or services from any particular vendor.  The
 name comes from the observation that cloud-based software has a strong
 tendency to lock-in users and make them to use a particular platform.
-In response, we need a good way to cross between these different
-"clouds".  The goal is that users everywhere be free to use different
+In response, we need a good way to cross between these different cloud
+systems.  The goal is that users everywhere be free to use different
 products, and if they switch, they never lose access to what they've
 been doing and the people they've been doing it with.
 
-The flagship crosscloud application is cimba, a microblogging tool.
-Cimba users get an experience like that provided by Twitter, Facebook
-news feeds, etc, but they can switch to another crosscloud
-microblogging app and still see the same social network with the same
-posts and the same metadata.  More impressively, they can also switch
-vendors for their back-end data storage with no impact on user
-experience for themselves or their contacts.  Many other crosscloud
-applications are possible, spanning the whole range of Internet
-success stories and dreams of a connected world.  See [apps](apps.md).
+The flagship crosscloud application is [cimba](http://cimba.co), a
+microblogging tool being built at MIT CSAIL.  Cimba users get an
+experience like that provided by Twitter, Facebook news feeds, etc,
+but they can switch to another crosscloud microblogging app and still
+see the same social network with the same posts and the same metadata.
+More impressively, they can also switch vendors for their back-end
+data storage with no impact on user experience for themselves or their
+contacts.  (At least that's the vision; it's not there yet.)  Many
+other crosscloud applications are possible, spanning the whole range
+of Internet success stories and dreams of a connected world (see
+[apps](apps.md)).
 
 ## Benefits
 
@@ -35,7 +37,7 @@ will come with that freedom:
       system, too.  Can you get all your friends or colleagues to
       move at the same time?  And if people like you don't switch, new
       systems will fail for lack of users.  When users are locked in,
-      innovation is locked out.
+      most serious innovation is locked out.
 
   - **Connection.** For a variety of reasons, certain people you know
       probably can't or won't use any particular social networking
@@ -43,7 +45,7 @@ will come with that freedom:
       online, whether it's for work or just for fun.  With a
       large enough group of people (sometimes only 5 or 10) it's
       impossible to find a platform they all use.  In contrast, With
-      crossclouds software, people will have a wide variety of vendors and
+      crosscloud software, people will have a wide variety of vendors and
       platforms to choose from.  As long as each person can find one
       that works for them, you can all be connected.
 
