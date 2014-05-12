@@ -1,11 +1,16 @@
-Here are some major categories of consumer multiuser software, including a few examples of each.
+# Possible Crosscloud Application Areas
 
-To do: add analysis about the technical and business issue for
-crosscloud entrants into these markets.
+Anywhere there is multiuser software, there is some demand for crosscloud software.  So what kinds of multiuser software exists?   Here are some categories, with a few examples of each.   In time, it would be good to see multiple crosscloud offerings in each category.  This might happen because some vendors already in the category add crosscloud functionality.
 
-To do: add links to crunchbase (categories?) and wikipedia
+To do: 
 
-### Consumer-to-Consumer
+- add analysis about the technical issue for crosscloud versions
+- add analysis about business issues for crosscloud versions
+- add links to crunchbase and wikipedia
+- validate against other classification schems
+- link to existing or under-development crosscloud software
+
+## Consumer-to-Consumer Sales
 
 Alice has an item or a service to sell to Bob.  How does she let Bob know about this?  Can she trust him?  Can he trust her?  What price should she set?  What price should he offer?
 
@@ -14,16 +19,19 @@ Examples:
 - eBay (1995)
 - craigslist (1995)
 
-Very strong network effect: one cannot auction an item on two sites at once.
+Auctions have a particularly strong network effect: one cannot auction an item on two sites at once.
 
-### Small eCommerce
+## Small eCommerce
+
+Large vendors typically have their own systems or customize some existing software, but small vendors often use these marketplace sites.
 
 Examples:
 
 - Amazon Market
 - Etsy (2005)
+- eBay buy-it-now
 
-### Car Sharing
+## Car Sharing
 
 Example:
 
@@ -31,7 +39,7 @@ Example:
   - Uber (2009)
   - Lyft (2012)
 
-### Home Sharing 
+## Home Sharing 
 
 Example:
 
@@ -39,7 +47,7 @@ Example:
   - Roomster (2003)
   - Airbnb (2008)
 
-### Reviews
+## Reviews
 
 Example:
 
@@ -48,14 +56,14 @@ Example:
   - yelp (2004)
   - foursquare ?
 
-### Crowdfunding
+## Crowdfunding
 
 Example:
 
   - kickstarter
   - indiegogo
 
-### Event Registration
+## Event Registration
 
 Example:
 
@@ -64,7 +72,7 @@ Example:
   - eventbrite (2006)
   - [anyvite](http://www.crunchbase.com/organization/anyvite) (2008)
 
-### Event Scheduling
+## Event Scheduling
 
 Example:
 
@@ -73,7 +81,7 @@ Example:
   - Doodle (2007)
   - WhenIsGood (2008)
 
-### Dating
+## Dating
 
 Example:
 
@@ -82,7 +90,7 @@ Example:
   - okcupid (2004)
   - [more](http://en.wikipedia.org/wiki/Comparison_of_online_dating_websites)
 
-### Collaborative Filtering
+## Collaborative Filtering
 
 Given all the things on the Internet, how do you pick the most
 interesting or useful ones?  Solution: let other people indicate which
@@ -97,7 +105,7 @@ Example:
   - reddit (2005)
   - facebook "like"
 
-### Chat (Messaging)
+## Chat (Messaging)
 
 Typing (or sending pictures) to other people, one-to-one, or in small groups.
 
@@ -114,7 +122,7 @@ Example:
   - google hangouts
   - [more](http://en.wikipedia.org/wiki/List_of_chat_websites)
 
-### Social Networking
+## Social Networking
 
 Let the computer keep track of the people you know, and the people they know.
 
@@ -127,7 +135,7 @@ Example:
   - Facebook (2004)
   - [more](http://en.wikipedia.org/wiki/List_of_social_networking_websites)
 
-### Social Media
+## Social Media
 
 Get news and features from specific people, typically friends
 and celebrities.
@@ -144,34 +152,33 @@ Example:
   - google+ (2011)
   - facebook news feed
 
-### Photo Sharing
+## Photo Sharing
 
 Put your pictures on the web where other people can see them.
 
 Example:
 
-  - flickr (2004)
-  - instagram
-  - snapfish
-  - photobucket
-  - shutterfly
-  - google picasa
-  - imgur
+  - Shutterfly (1999)
+  - Picasa (2001)
+  - Flickr (2004)
+  - Imgur (2009)
+  - Instagram (2010)
   - facebook photo sharing
   - [more](http://en.wikipedia.org/wiki/List_of_photo_sharing_websites)
 
-### Video Sharing [List](http://en.wikipedia.org/wiki/List_of_video_hosting_services)
+## Video Sharing 
 
 Put your videos on the web where other people can see them.
 
 Example:
 
-  - vimeo (2004)
-  - youtube (2005)
-  - vine (2013)
-  - facebook video sharing
+  - Vimeo (2004)
+  - YouTube (2005)
+  - Vine (2013)
+  - Facebook video sharing
+  - [more]](http://en.wikipedia.org/wiki/List_of_video_hosting_services)
 
-### Question Answering
+## Question Answering
 
 Someone on the Internet posts a question, and hopefully someone else posts the right answer.   Collaborative Filtering and a few other techniques help make it work.
 
@@ -180,7 +187,7 @@ Someone on the Internet posts a question, and hopefully someone else posts the r
   - Quora (2009)
   - [more](http://en.wikipedia.org/wiki/List_of_question-and-answer_websites)
 
-### Forums and Comments
+## Forums and Comments
 
   - phpBB (2000)
   - Disqus (2007)
@@ -188,7 +195,7 @@ Someone on the Internet posts a question, and hopefully someone else posts the r
   - [more](http://en.wikipedia.org/wiki/Comparison_of_Internet_forum_software)
 
 
-### Multiplayer Games
+## Multiplayer Games
 
 Play games with other people, through the computer.
 
@@ -205,7 +212,7 @@ Example:
   - Farmville (2009)
   - Words with Friends (2009)
 
-### Collaborative Development
+## Collaborative Development
 
 Let the computer coordinate the work people are doing when they build
 something online.
@@ -222,7 +229,7 @@ Example:
   - Google Wave (2009)
   - [more editors](http://en.wikipedia.org/wiki/Collaborative_real-time_editor)
 
-### Task Management
+## Task Management
 
 Keep track of what you need to do and what other people need to do
 
@@ -234,7 +241,7 @@ Example:
   - more todo lists [1](http://lifehacker.com/5924093/five-best-to-do-list-managers) [2](http://business.tutsplus.com/articles/20-best-online-to-do-list-apps-for-freelancers--fsw-24520)
 
 
-### Crowdsourced Data
+## Crowdsourced Data
 
 Example:
 
@@ -247,13 +254,13 @@ Example:
   - [more](http://en.wikipedia.org/wiki/List_of_online_databases)
 
 
-### Calendar
+## Calendar
 
 Example:
   - Google Calendar
   - [more](http://en.wikipedia.org/wiki/Calendar_software)
   
-### Fitness / Health / Quantified Self
+## Fitness / Health / Quantified Self
 
 http://en.wikipedia.org/wiki/List_of_exercise_prescription_software
 http://en.wikipedia.org/wiki/Quantified_Self
@@ -264,24 +271,24 @@ Example:
   - Moves (ProtoGeo) (2012)
   - Nike+ Fuelband (2012)
 
-### eCommerce Facilitation
+## eCommerce Facilitation
 
 Ideas:
   - gift registry 
   - anonymous profile of the attributes you want the store to see
 
-### Home Automation
+## Home Automation
 
 http://en.wikipedia.org/wiki/List_of_home_automation_software
 
 Although not traditionally a multiuser application area, with
 roommates or family members it becomes one.
 
-### Customer Relationship Management
+## Customer Relationship Management
 
 http://en.wikipedia.org/wiki/Customer_relationship_management#Market_leaders
 
-### Expense Sharing and Reconcilation
+## Expense Sharing and Reconcilation
 
 Example:
 
@@ -289,14 +296,14 @@ Example:
   - Mint
   - Concur
 
-### Peer Review
+## Peer Review
 
 Example:
 
   - Easychair
   - OpenConf
 
-### Meeting Support
+## Meeting Support
 
 http://en.wikipedia.org/wiki/Electronic_meeting_system
 
