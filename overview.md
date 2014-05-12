@@ -1,25 +1,20 @@
 
-## Vision
+Crosscloud is a decentralized system, still being designed, which is
+intended to give users the freedom to move comfortably between
+competing cloud-based applications.  Where today users are locked in
+by sites which hold onto their data and their social connections, when
+crosscloud is widely deployed, users will be free to switch to new
+applications in search of better features, pricing, and policies.
 
-The **crosscloud vision** is of people easily moving between
-applications, always able to access and control their own data, never
-forced to use products or services from any particular vendor.  The
-name comes from the observation that cloud-based software has a strong
-tendency to lock-in users and make them to use a particular platform.
-In response, we need a good way to cross between these different cloud
-systems.  The goal is that users everywhere be free to use different
-products, and if they switch, they never lose access to what they've
-been doing and the people they've been doing it with.
-
-The flagship crosscloud application is [cimba](http://cimba.co), a
+The flagship Crosscloud application is [cimba](http://cimba.co), a
 microblogging tool being built at MIT CSAIL.  Cimba users get an
 experience like that provided by Twitter, Facebook news feeds, etc,
-but they can switch to another crosscloud microblogging app and still
+but they can switch to another Crosscloud microblogging app and still
 see the same social network with the same posts and the same metadata.
 More impressively, they can also switch vendors for their back-end
 data storage with no impact on user experience for themselves or their
 contacts.  (At least that's the vision; it's not there yet.)  Many
-other crosscloud applications are possible, spanning the whole range
+other Crosscloud applications are possible, spanning the whole range
 of Internet success stories and dreams of a connected world (see
 [potential application areas](apps.md)).
 
@@ -100,15 +95,13 @@ by building it.
 
 Building a system with the right properties is not enough.  It has to be something that is easy enough to implement that it ends up widely deployed, as the only system like this.   Imagine if instead of the Internet, we had several different global networks, and you could only reach the people on the same one.   (Some of us remember those days, with BITNET, uucp, etc.)
 
-This means people working toward the crosscloud vision need to work together to reach consensus on the protocols.  And before consensus is reached, people need to plan on updating their software in place.
+This means people working toward the crosscloud vision need to work together to reach consensus on the protocols.  And during the time before consensus is reached, people will need to keep updating their software.   At some point along the way, Crosscloud may need to merge with similar systems for the benefit of the users.
 
 At this point, the [Linked
 Data](http://en.wikipedia.org/wiki/Linked_data) technology stack is
 being used and extended to build crosscloud systems, with standards
-work being done at W3C.  We view the crosscloud vision as a driving
-use case for Linked Data, but there are other uses for Linked Data,
-and it's not out of the question for crosscloud functionality to be
-provided with non-Linked Data technologies.
+work being done at W3C.  We view the crosscloud vision as one of the driving
+use cases for Linked Data.  
 
 ### 3.  Ecosystem
 
@@ -119,7 +112,10 @@ So it's important to make sure there are plenty of people able and willing to bu
 
 ## Projects
 
-These are projects that are committed to the crosscloud goals and to participating in the consensus standards process to get there.   Related projects that are not explicitely on board may be listed on the [reading list](reading-list.md).  If you want your work listed here, let us know by the normal means (eg pull request, email).
+Crosscloud development is led by Sandro Hawke and Tim Berners-Lee at
+MIT and involves various projects around the world.  Related projects
+that are not part of the Crosscloud effort, but might converge
+eventually, are being listed on the [reading list](reading-list.md).
 
 - [cimba](http://cimba.co) is a microblogging client ([source code](https://github.com/linkeddata/cimba/))
 
