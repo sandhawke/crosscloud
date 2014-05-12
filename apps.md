@@ -34,7 +34,7 @@ Large vendors typically have their own systems or customize some existing softwa
 
 Examples:
 
-- Amazon zShopes (now Marketplace) (1999)
+- Amazon zShops (now Marketplace) (1999)
 - Etsy (2005)
 - eBay buy-it-now
 
@@ -354,3 +354,9 @@ Examples:
   - [more](http://en.wikipedia.org/wiki/Scientific_data_archiving)
 
 
+
+### Open Democracy Tools
+
+Examples:
+  
+  - yrpri.org
