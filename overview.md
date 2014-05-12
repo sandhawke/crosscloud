@@ -68,7 +68,7 @@ will come with that freedom:
   - **Reliability.** A system providing crosscloud functionality
       has to be engineered without introducing any single point of
       failure (since control over that point would mean control over
-      the system, and scaring away users and ecosystem participatens).
+      the system, and scaring away users and ecosystem participants).
       So the overall system is likely to be as reliable as the
       Internet in general.  Individual servers might be unreliable,
       but since users can easily switch, there should be strong market
@@ -105,18 +105,15 @@ This means people working toward the crosscloud vision need to work together to 
 At this point, the [Linked
 Data](http://en.wikipedia.org/wiki/Linked_data) technology stack is
 being used and extended to build crosscloud systems, with standards
-work being done at W3C.  Where Linked Data projects are
-technology-driven, with a wide range of possible use cases, Crosscloud
-projects are driven by the single use case of allowing users complete
-freedom to switch vendors.  The two efforts may result in some of the
-same specifications, but there are non-crosscloud uses for Linked
-Data, and it's not out of the question for crosscloud functionality to
-be provided with non-Linked Data technologies.
+work being done at W3C.  We view the crosscloud vision as a driving
+use case for Linked Data, but there are other uses for Linked Data,
+and it's not out of the question for crosscloud functionality to be
+provided with non-Linked Data technologies.
 
 ### 3.  Ecosystem
 
 Even if the technology works well and there is complete consensus on
-the standards, if there aren't enough applications or service providers, users wont have the intended level of freedom and benifits.
+the standards, if there aren't enough applications or service providers, users wont have the intended level of freedom and benefits.
 
 So it's important to make sure there are plenty of people able and willing to build crosscloud applications and run crosscloud servers.
 
