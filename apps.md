@@ -184,7 +184,7 @@ Examples:
   - YouTube (2005)
   - Vine (2013)
   - Facebook video sharing
-  - [more...]](http://en.wikipedia.org/wiki/List_of_video_hosting_services)
+  - [more...](http://en.wikipedia.org/wiki/List_of_video_hosting_services)
 
 ## Question Answering
 
