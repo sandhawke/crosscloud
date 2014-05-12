@@ -119,13 +119,17 @@ So it's important to make sure there are plenty of people able and willing to bu
 
 ## Projects
 
-- [cimba](http://cimba.co) is a microblogging client [source code](https://github.com/linkeddata/cimba/)
+These are projects that are committed to the crosscloud goals and to participating in the consensus standards process to get there.   Related projects that are not explicitely on board may be listed on the [reading list](reading-list.md).
 
-- ldphp is an LDP server, providing some of the crosscloud server functionality [source code](https://github.com/linkeddata/ldphp)
+- [cimba](http://cimba.co) is a microblogging client ([source code](https://github.com/linkeddata/cimba/))
 
-- librdf.js is a JavaScript library for webapp developers to access needed functionality [source code](https://github.com/linkeddata/rdflib.js)
+- ldphp is an LDP server, providing some of the crosscloud server functionality ([source code](https://github.com/linkeddata/ldphp))
 
-- [indx](https://github.com/sociam/indx/)
+- librdf.js is a JavaScript library for webapp developers to access needed functionality ([source code](https://github.com/linkeddata/rdflib.js))
+
+
+
+
 
   
 
