@@ -9,6 +9,7 @@ Maybe bibtex (cf jabref) displayed using
 [bibtex-js](https://code.google.com/p/bibtex-js/)?  Or something using
 linked data?
 
+Obviously this is just getting started.
 
 
 ### [Crosscloud: Let Users Control Their Data ... and We All Benefit](http://www.w3.org/2013/Talks/1119-sandro-crosscloud/) (slides)
