@@ -119,7 +119,7 @@ So it's important to make sure there are plenty of people able and willing to bu
 
 ## Projects
 
-These are projects that are committed to the crosscloud goals and to participating in the consensus standards process to get there.   Related projects that are not explicitely on board may be listed on the [reading list](reading-list.md).
+These are projects that are committed to the crosscloud goals and to participating in the consensus standards process to get there.   Related projects that are not explicitely on board may be listed on the [reading list](reading-list.md).  If you want your work listed here, do a pull request or raise an issue or just email @sandhawke.
 
 - [cimba](http://cimba.co) is a microblogging client ([source code](https://github.com/linkeddata/cimba/))
 
