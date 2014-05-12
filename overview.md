@@ -98,7 +98,7 @@ by building it.
 
 ### 2.  Standards
 
-Building a system with the right properties is not enough.  It has to be something that is easy enough to implement that it ends up widely deployed, as the only system like this.   Imagine if instead of the Internet, we had several different global networks, and you could only reach the people on the same one?   (Some of us remember those days.   Not so fun.)
+Building a system with the right properties is not enough.  It has to be something that is easy enough to implement that it ends up widely deployed, as the only system like this.   Imagine if instead of the Internet, we had several different global networks, and you could only reach the people on the same one.   (Some of us remember those days, with BITNET, uucp, etc.)
 
 This means people working toward the crosscloud vision need to work together to reach consensus on the protocols.  And before consensus is reached, people need to plan on updating their software in place.
 
@@ -119,7 +119,7 @@ So it's important to make sure there are plenty of people able and willing to bu
 
 ## Projects
 
-These are projects that are committed to the crosscloud goals and to participating in the consensus standards process to get there.   Related projects that are not explicitely on board may be listed on the [reading list](reading-list.md).  If you want your work listed here, do a pull request or raise an issue or just email @sandhawke.
+These are projects that are committed to the crosscloud goals and to participating in the consensus standards process to get there.   Related projects that are not explicitely on board may be listed on the [reading list](reading-list.md).  If you want your work listed here, let us know by the normal means (eg pull request, email).
 
 - [cimba](http://cimba.co) is a microblogging client ([source code](https://github.com/linkeddata/cimba/))
 
