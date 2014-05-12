@@ -75,10 +75,9 @@ will come with that freedom:
       pressure toward reliability.
 
   - **Customizability.** Also known as "hackability" or "modability",
-      then ability of a system to be tinkered with and modified to
-      suit particular needs is important to adoption and user
-      satisfaction.  Centralized systems generally lack this, because
-      @@@ ... what about distributing mods?
+      the ability of a system to be tinkered with and modified to suit
+      particular needs is important to adoption and user satisfaction.
+      Centralized systems have a much harder time supporting this.
 
   - **Cost Savings.** Because the barriers to entry for competitors
       are much lower, prices are likely to be lower.
@@ -89,65 +88,45 @@ To make the crosscloud vision a reality, three main things have to happen:
 
 ### 1.  Research
 
-@@
-
 There are some open questions in computer science about whether it's
 feasible to build a decentralized system of this scale, with these
 characteristics.
 
-So building cimba, podserver, demo apps; publishing any new science.
-Prove that it can be built by building it.
-
-We encourage others to help, showing that it can be built.
+So we need to build demonstration apps (eg cimba) and publishing any
+new science we do in the process.  This is: prove that it can be built
+by building it.
 
 ### 2.  Standards
 
-@@
+Building a system with the right properties is not enough.  It has to be something that is easy enough to implement that it ends up widely deployed, as the only system like this.   Imagine if instead of the Internet, we had several different global networks, and you could only reach the people on the same one?   (Some of us remember those days.   Not so fun.)
 
-If we know how to build a system like crosscloud, and we build three different ones that don't interoperate, we're not in good shape.
+This means people working toward the crosscloud vision need to work together to reach consensus on the protocols.  And before consensus is reached, people need to plan on updating their software in place.
 
-So it's important the people defining the protocols make a reasonable effort to come to consensus on those protocols before they become so widely deployed they are hard to update.
-
-As such, we suggest a system cannot consider itself a "crosscloud" system unless it conforms to all relevant W3C recommendations and its makers are engaged and committed to conforming to new relevant standards.
-
---
-
-
-Building Crosscloud is an open standards effort, as various people
-work on the technical challenges and gradually standardize elements
-that become well understood.  While some implementations will be open
-source, proprietary implementations are also welcome.  To be a part of
-the Crosscloud ecosystem, software must conform to all applicable
-specifications.  For now, while those specs are being debated and
-refined, participating in Crosscloud requires being actively engaged
-with the other Crosscloud developers and being willing to update your
-software as needed.
-
-The [Linked Data](http://en.wikipedia.org/wiki/Linked_data) technology
-stack is being used and extended to build Crosscloud, with standards
-work being done at W3C.  Where Linked Data is technology-driven, with
-a wide range of use cases, Crosscloud is customer-driven, focussed on
-the single use case of allowing people the freedom to easily move
-between vendors, even in a cloud software world.  The two visions may
-result in some of the same specifications, but there may be many other
-uses for Linked Data, and it's not out of the question for Crosscloud
-functionality to be provided with non-Linked Data technologies.
+At this point, the [Linked
+Data](http://en.wikipedia.org/wiki/Linked_data) technology stack is
+being used and extended to build crosscloud systems, with standards
+work being done at W3C.  Where Linked Data projects are
+technology-driven, with a wide range of possible use cases, Crosscloud
+projects are driven by the single use case of allowing users complete
+freedom to switch vendors.  The two efforts may result in some of the
+same specifications, but there are non-crosscloud uses for Linked
+Data, and it's not out of the question for crosscloud functionality to
+be provided with non-Linked Data technologies.
 
 ### 3.  Ecosystem
 
-@@
+Even if the technology works well and there is complete consensus on
+the standards, if there aren't enough applications or service providers, users wont have the intended level of freedom and benifits.
 
-If we build a single, unified system with all the right scaling properties, if customers can't find the products they want, we wont be done.
-
-This is going to require businesses seeing how they can make money offering crosscloud products and services.
+So it's important to make sure there are plenty of people able and willing to build crosscloud applications and run crosscloud servers.
 
 ## Projects
 
-- [cimba](http://cimba.co) is ...  [source code](https://github.com/linkeddata/cimba/)
+- [cimba](http://cimba.co) is a microblogging client [source code](https://github.com/linkeddata/cimba/)
 
-- ld.php
+- ldphp is an LDP server, providing some of the crosscloud server functionality [source code](https://github.com/linkeddata/ldphp)
 
-- librdf
+- librdf.js is a JavaScript library for webapp developers to access needed functionality [source code](https://github.com/linkeddata/rdflib.js)
 
 - [indx](https://github.com/sociam/indx/)
 
