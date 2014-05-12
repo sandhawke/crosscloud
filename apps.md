@@ -19,7 +19,14 @@ Examples:
 - eBay (1995)
 - craigslist (1995)
 
-Auctions have a particularly strong network effect: one cannot auction an item on two sites at once.
+Crosscloud considerations:
+
+- eBay has a particularly strong hold, since one cannot auction an item on two separate sites at once.   At this point it is also very well known and trusted.
+- There may be untapped opportunities for innovation, particularly with lightweight and mobile apps.
+- There may be buyers and sellers unable to use eBay, wanting something more like a cash transaction in their own country
+- The fact that eBay and craigslist both exist suggests they are each vulnerable.  In general craigslist involves human communication, of face-to-face, to establish trust, while eBay encourages trust by making certain guarantees to the parties.
+- eBay supports faceted search for some kinds of products (eg [ipods](http://www.ebay.com/electronics/ipod)), but crosscloud apps could potentially bring uniform product details to every niche market
+- Establishing trust might be hard, but leveraging social networks (which didn't exist when eBay started) could help.  
 
 ## eCommerce Stores
 
