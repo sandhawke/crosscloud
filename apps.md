@@ -298,30 +298,34 @@ roommates or family members it becomes one.
 
 ## Customer Relationship Management
 
-http://en.wikipedia.org/wiki/Customer_relationship_management#Market_leaders
+see http://en.wikipedia.org/wiki/Customer_relationship_management#Market_leaders
 
-## Expense Sharing and Reconcilation
+## Expenses
+
+There are often social information flows around people spending money
 
 Examples:
 
-  - Billmonk (2009)
-  - Mint
-  - Concur
+  - Billmonk (2009) - lets people split bills with other people
+  - Mint - learns categories and reasonable amounts from other people
+  - Concur - enterprise expense workflow
 
 ## Peer Review
 
 Examples:
 
-  - Easychair
+  - Easychair (2002)
   - OpenConf
+  - [more...](http://blog.prof.so/2012/01/conference-management-systems.html) including meeting support, and event registration 
 
 ## Meeting Support
 
-http://en.wikipedia.org/wiki/Electronic_meeting_system
+see http://en.wikipedia.org/wiki/Electronic_meeting_system
 
 Examples:
 
   - IRC with W3C usage patterns
   - GoToMeeting
+  - WebEx
   - Google hangouts
 
