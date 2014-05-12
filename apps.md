@@ -251,6 +251,10 @@ Examples:
 
 ## Crowdsourced Data
 
+Lots of people know something about (some topic), and other people want to know it.  Let folks see it, edit it, improve it.   
+
+Technically this category should probably be broken into subcategories like movie data, map data, lyrics, etc, with most competition inside the subcategories.  Wikipedia and Freebase span the categories and may compete with the others.
+
 Examples:
 
   - IMDB (1990)
