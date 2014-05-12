@@ -19,8 +19,7 @@ posts and the same metadata.  More impressively, they can also switch
 vendors for their back-end data storage with no impact on user
 experience for themselves or their contacts.  Many other crosscloud
 applications are possible, spanning the whole range of Internet
-success stories and dreams of a connected world.  For some details see
-@@apps..
+success stories and dreams of a connected world.  See [apps](apps.md).
 
 ## Benefits
 
@@ -130,6 +129,11 @@ functionality to be provided with non-Linked Data technologies.
 If we build a single, unified system with all the right scaling properties, if customers can't find the products they want, we wont be done.
 
 This is going to require businesses seeing how they can make money offering crosscloud products and services.
+
+## Application Areas
+
+- **Microblogging.**
+
 
 ## Projects
 
