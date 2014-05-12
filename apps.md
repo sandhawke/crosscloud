@@ -113,22 +113,24 @@ Examples:
   - reddit (2005)
   - facebook "like"
 
-## Chat (Messaging)
+## Chat
 
-Typing (or sending pictures) to other people, one-to-one, or in small groups.
+Typing (or sending pictures) to other people, one-to-one, or in small groups, with instant delivery and usually presence/typing indicators
 
 Examples:
 
+  - Compuserve CB (1980)
+  - bitnet relay (1985)
   - irc (1988)
-  - aim (1997)
-  - ym (1998)
-  - gtalk (2005) 
+  - ICQ (1996)
+  - AOL Instant Messenger (1997)
+  - Yahoo Messenger (1998)
+  - google talk (2005) 
   - facebook chat
+  - WhatsApp (2009)
   - Snapchat (2011)
-  - Wickr (2012)
-  - Telegram (2013)
   - google hangouts
-  - [more...](http://en.wikipedia.org/wiki/List_of_chat_websites)
+  - more... [1](http://en.wikipedia.org/wiki/List_of_chat_websites) [2](http://en.wikipedia.org/wiki/Comparison_of_instant_messaging_clients) [3](http://en.wikipedia.org/wiki/Online_chat)
 
 ## Social Networking
 
@@ -331,6 +333,17 @@ Examples:
 
 ## Humanitarian Response
 
+Are there ways software can help coordinate humanitarian response to events, include natural disasters?
+
 ## Scientific Data Sharing
+
+For scientists building on each other's work, both before and after publication.
+
+Examples:
+
+  - DataONE
+  - ICSU World Data System
+  - data.gov (some govt data is scientific data)
+  - [more](http://en.wikipedia.org/wiki/Scientific_data_archiving)
 
 
