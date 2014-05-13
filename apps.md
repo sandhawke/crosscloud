@@ -360,3 +360,10 @@ Examples:
 Examples:
   
   - yrpri.org
+
+### Annotations
+
+Allow people to add comments on web resources or parts of web resources, independent of (beyond the control of) the resource itself.    
+
+No known successful examples.   
+
