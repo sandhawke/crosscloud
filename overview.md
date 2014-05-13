@@ -1,10 +1,11 @@
 
-Crosscloud is a decentralized system, still being designed, which is
+Crosscloud is a decentralized system, still being developed, which is
 intended to give users the freedom to move comfortably between
 competing cloud-based applications.  Where today users are locked in
 by sites which hold onto their data and their social connections, when
-crosscloud is widely deployed, users will be free to switch to new
-applications in search of better features, pricing, and policies.
+crosscloud (or its successor) is widely deployed, users will be free 
+to switch to new applications in search of better features, pricing, 
+and policies.
 
 The flagship Crosscloud application is [cimba](http://cimba.co), a
 microblogging tool being built at MIT CSAIL.  Cimba users get an
