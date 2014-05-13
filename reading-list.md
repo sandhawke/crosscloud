@@ -63,8 +63,3 @@ Oct 2009 (trivially revised Dec 2012), Hitzler et al
 
 Good introduction to OWL, from the OWL Working Group
 
-
-
-
-
-
