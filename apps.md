@@ -355,11 +355,13 @@ Examples:
 
 
 
-### Open Democracy Tools
+### Democracy/Consensus Tools
 
 Examples:
   
-  - yrpri.org
+  - Your Priorities (yrpri)
+  - democracyOS
+  - Loomio
 
 ### Annotations
 
