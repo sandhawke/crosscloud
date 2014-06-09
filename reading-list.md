@@ -17,7 +17,7 @@ Obviously this is just getting started.
 ## Talks
 
 
-### [Avoiding Social Lock-In With Crosscloud (W3C Tech Talk)(http://www.w3.org/2014/Talks/0605-sandro) (slides)
+### [Avoiding Social Lock-In With Crosscloud (W3C Tech Talk)](http://www.w3.org/2014/Talks/0605-sandro) (slides)
 
 Jun 2013, Sandro Hawke
 
