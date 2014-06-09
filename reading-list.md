@@ -16,12 +16,19 @@ Obviously this is just getting started.
 
 ## Talks
 
+
+### [Avoiding Social Lock-In With Crosscloud (W3C Tech Talk)(http://www.w3.org/2014/Talks/0605-sandro) (slides)
+
+Jun 2013, Sandro Hawke
+
+Slides from a talk to the W3C staff.    Tries to connect it with existing technologies, ideas, and efforts.
+
+
 ### [Crosscloud: Let Users Control Their Data ... and We All Benefit](http://www.w3.org/2013/Talks/1119-sandro-crosscloud/) (slides)
 
 Nov 2013, Sandro Hawke
 
 Slides from a talk to the MIT Linked Data Ventures class.   Lays out some motivation and research agenda for crosscloud.
-
 
 
 
