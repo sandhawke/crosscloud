@@ -101,12 +101,12 @@ Solution: Alice should run the app in a "cage" which prevents it from communicat
 But it can still post to your pod, maybe where you wont notice, but it can see?  Maybe it's restricted to posting to some given interface?
 
 
-## Outbound Scaling (Akamai, the "Justing Beiber" problem)
+## Outbound Scaling ("Justin Bieber" problem)
 
 Use case: a microblog with millions of followers, hopefully without paying for thousands of servers
 
 
-## Inbound Scaling (Google Crawler)
+## Inbound Scaling
 
 Use case: a query which needs to traverse thousands or millions of servers, for aggregation (star ratings), or for finding a few special bits.
 
