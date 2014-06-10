@@ -2,6 +2,9 @@ These are elements of user functionality provided or intended to be provided by 
 
 Each is presented as a brief "user story", usually about "Alice" and "Bob", two example users of Crosscloud applications.   Alice and Bob like to play chess online.
 
+Each should also be explained in terms of microblogging, and maybe another app.
+
+Also, for each we should say where it is on the spectrum from being conceptualized as a problem to being an accepted deployed standard.
 
 ## Social App with Personal Online Database (pod) Servers
 
