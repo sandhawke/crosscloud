@@ -44,7 +44,23 @@ Story: Like Social Search, but in this case it reaches people who are not in Ali
 
 Solution: namespace doc points to a tracker
 
-## Switching Apps, Different DataIntf
+## Data Location / Replication
+
+Story: Alice and Bob are playing chess.  Alice's server goes off-line.  Can Bob still see the whole game?   Can Bob still see his moves?
+
+## Nonreputiation
+
+Story: Alice makes a microblog post, then later modifies her server so it shows it as having different text.   Bob should be able to detect this if he saw it before she changed it.
+
+## Efficient Change Propagation
+
+Story: Alice makes a move in her chess game with Bob.  Bob wants to see that move immediately. 
+
+## Building on non-institutional data sources
+
+Story: Alice is writing the first chess app and creates a vocabulary for it.  How does she document that vocabulary such that others are able and likely to reuse it?
+
+## Switching Apps, Different Data Interface
 
 Story: App1 uses vocab 1.  App2 uses vocab 2.  User wants to switch from App1 to App2 without losing access to data.
 
@@ -54,23 +70,9 @@ Solution: Include some rules in the namespace documents.   Link the input and ou
 
 More difficult: Alice and Bob are using two different chess apps, which use different vocabularies.
 
-## Efficient Change Propagation
-
-Story: Alice makes a move in her chess game with Bob.  Bob wants to see that move immediately. 
-
 ## Trust
 
 Use case: only pay attention to product reviews from people who are likely to be trustworthy, perhaps determined via my social network
-
-
-## Outbound Scaling (Akamai, the "Justing Beiber" problem)
-
-Use case: a microblog with millions of followers, hopefully without paying for thousands of servers
-
-
-## Inbound Scaling (Google Crawler)
-
-Use case: a query which needs to traverse thousands or millions of servers, for aggregation (star ratings), or for finding a few special bits.
 
 
 ## Bridging to Legacy Systems
@@ -99,18 +101,13 @@ Solution: Alice should run the app in a "cage" which prevents it from communicat
 But it can still post to your pod, maybe where you wont notice, but it can see?  Maybe it's restricted to posting to some given interface?
 
 
-## Nonreputiation
+## Outbound Scaling (Akamai, the "Justing Beiber" problem)
 
-Story: Alice makes a microblog post, then later modifies her server so it shows it as having different text.   Bob should be able to detect this if he saw it before she changed it.
-
-
-## Data Location / Replication
-
-Story: Alice and Bob are playing chess.  Alice's server goes off-line.  Can Bob still see the whole game?   Can Bob still see his moves?
+Use case: a microblog with millions of followers, hopefully without paying for thousands of servers
 
 
-## Building on non-institutional data sources
+## Inbound Scaling (Google Crawler)
 
-Story: Alice is writing the first chess app and creates a vocabulary for it.  How does she document that vocabulary such that others are able and likely to reuse it?
+Use case: a query which needs to traverse thousands or millions of servers, for aggregation (star ratings), or for finding a few special bits.
 
 
