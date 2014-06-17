@@ -4,7 +4,7 @@ Anywhere there is multiuser software, there is some demand for crosscloud softwa
 
 To do: 
 
-- add analysis about the technical issue for crosscloud versions
+- add analysis about the technical issues for crosscloud versions
 - add analysis about business issues for crosscloud versions
 - add more links to crunchbase and wikipedia
 - validate against other software product classification schemes
@@ -26,7 +26,7 @@ Crosscloud considerations:
 - There may be buyers and sellers unable to use eBay, wanting something more like a cash transaction in their own country
 - The fact that eBay and craigslist both exist suggests they are each vulnerable.  In general craigslist involves human communication, often face-to-face, to establish trust, while eBay encourages trust by making certain guarantees to the parties.
 - eBay supports faceted search for some kinds of products (eg [ipods](http://www.ebay.com/electronics/ipod)), but crosscloud apps could potentially bring uniform product details to every niche market
-- Establishing trust might be hard, but leveraging social networks (which didn't exist when eBay started) could help.  
+- Establishing trust might be hard, but leveraging social networks (which were not online when eBay started) could help.  
 
 ## eCommerce Stores
 
