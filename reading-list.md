@@ -19,7 +19,7 @@ Obviously this is just getting started.
 
 ### [Avoiding Social Lock-In With Crosscloud (W3C Tech Talk)](http://www.w3.org/2014/Talks/0605-sandro) (slides)
 
-Jun 2013, Sandro Hawke
+Jun 2014, Sandro Hawke
 
 Slides from a talk to the W3C staff.    Tries to connect it with existing technologies, ideas, and efforts.
 
