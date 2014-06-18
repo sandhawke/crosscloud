@@ -65,9 +65,9 @@ Feb 2014, Cyganiak, Wood, Lanthaler
 This is the technical defininition of RDF.   Fairly easy to read, actually.  
 
 
-### [http://www.ibm.com/developerworks/xml/library/j-sparql/](Search RDF data with SPARQL) (8 page tutorial)
+### [Search RDF data with SPARQL](http://www.ibm.com/developerworks/xml/library/j-sparql/) (8 page tutorial)
 
-### [http://www.w3.org/TR/sparql11-overview/](SPARQL 1.1) (3 page overview of spec)
+### [SPARQL 1.1](http://www.w3.org/TR/sparql11-overview/) (3 page overview of spec)
 
 ### [OWL 2 Primer](http://www.w3.org/TR/owl2-primer/) (24 page spec)
 
@@ -81,13 +81,13 @@ Good introduction to OWL, from the OWL Working Group
 
 # Code
 
-### [https://github.com/linkeddata/app-bp](App Boilerplace)
+### [App Boilerplate](https://github.com/linkeddata/app-bp)
 
-### [https://github.com/linkeddata/cimba/tree/next](Cimba in Boilerplate)
+### [Cimba in Boilerplate](https://github.com/linkeddata/cimba/tree/next)
 
-### [http://angularjs.org](AngularJS — Superheroic JavaScript MVW Framework)
+### [AngularJS](http://angularjs.org)
 
-### [angular.codeschool.com](Free AngularJS Tutorial)
+### (AngularJS Tutorial)[angular.codeschool.com]
 
 
 
