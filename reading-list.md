@@ -85,7 +85,9 @@ Good introduction to OWL, from the OWL Working Group
 
 ### [https://github.com/linkeddata/cimba/tree/next](Cimba in Boilerplate)
 
-### [http://angular.org](AngularJS — Superheroic JavaScript MVW Framework)
+### [http://angularjs.org](AngularJS — Superheroic JavaScript MVW Framework)
+
+### [angular.codeschool.com](Free AngularJS Tutorial)
 
 
 
