@@ -87,7 +87,7 @@ Good introduction to OWL, from the OWL Working Group
 
 ### [AngularJS](http://angularjs.org)
 
-### (AngularJS Tutorial)[angular.codeschool.com]
+### [Codeschool AngularJS Tutorial](angular.codeschool.com)
 
 
 
