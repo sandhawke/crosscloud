@@ -369,3 +369,17 @@ Allow people to add comments on web resources or parts of web resources, indepen
 
 No known successful examples.   
 
+### Anonymous Personal Stories
+
+Allow people to anonymously share with the world something very interesting that happened to them.
+
+Story: Something very interesting happened to Alice.   She feels like she needs to share the story, perhaps to get a better understanding of it, perhaps to warn people.  She might not know why, it just seems important/great to share.  But she wants to share it anonymously, to keep her life story detached from this particular story.   Bob finds such stories compelling, so he reads lots of them.   Sometimes he helps crowdfilter them, sometimes he gives thoughtful responses, sometimes he gives mean responses.  Sometimes he thinks Alice made up the story; sometimes he's right; sometimes that doesn't matter and sometimes it does.
+
+A comment moderation system that can handle this stuff well can probably handle anything.
+
+  - OverheardInNewYork.com (2000)
+  - PostSecret.com (2004)
+  - FMyLife.com (2008)
+  - failblog.cheezburger.com (2008)
+
+
