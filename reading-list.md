@@ -104,3 +104,9 @@ Sandro says: I think we can converge with much of this functionality.   Note the
 
 Sandro says: Very similar goals
 
+### [Diaspora*](https://diasporafoundation.org/)
+
+Sandro says: The most famous decentralized social network, also uses the term "pods" (although a bit differently)
+
+
+
