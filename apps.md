@@ -58,6 +58,10 @@ Examples:
   - Roomster (2003)
   - Airbnb (2008)
 
+## Parking Spot Sharing
+
+Software lets people rent a parking space from its owner
+
 ## Reviews
 
 The wisdom of crowds: who around here has good dim sum?
@@ -354,8 +358,7 @@ Examples:
   - [more](http://en.wikipedia.org/wiki/Scientific_data_archiving)
 
 
-
-### Democracy/Consensus Tools
+## Democracy/Consensus Tools
 
 Examples:
   
@@ -363,13 +366,13 @@ Examples:
   - democracyOS
   - Loomio
 
-### Annotations
+## Annotations
 
 Allow people to add comments on web resources or parts of web resources, independent of (beyond the control of) the resource itself.    
 
 No known successful examples.   
 
-### Anonymous Personal Stories
+## Anonymous Personal Stories
 
 Allow people to anonymously share with the world something very interesting that happened to them.
 
