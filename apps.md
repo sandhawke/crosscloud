@@ -156,6 +156,10 @@ Examples:
   - Facebook (2004)
   - [more...](http://en.wikipedia.org/wiki/List_of_social_networking_websites)
 
+Ideas:
+
+  - Memory games to help learn people's faces (as in [facegame](http://blog.futurice.com/facegame))
+
 ## Social Media
 
 Get news and features from specific people, typically friends
