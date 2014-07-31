@@ -92,6 +92,13 @@ Good introduction to OWL, from the OWL Working Group
 ### Mailgun
 
 
+# Prior Work
+
+### [An Architecture of a Distributed Semantic Social Network]
+
+Tramp 2012
+
+
 # Interesting Technologies
 
 ### [Spanner: Google's Globally-Distributed Database](http://research.google.com/archive/spanner.html) (paper, slides, video)
@@ -110,4 +117,4 @@ Sandro says: Very similar goals
 Sandro says: The most famous decentralized social network, also uses the term "pods" (although a bit differently)
 
 
-
+### pump.io
