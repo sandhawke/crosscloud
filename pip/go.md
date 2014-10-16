@@ -154,7 +154,7 @@ client.Dump(waitForNotETag) Cursor
 
 If `onlyProperties` contains any strings, only those properties are shown; the resulting page images are subset views of the actual pages.
 
-If `sort` contains any strings, they each name a property, or "-" followed by the name of a property, and that forms the sort order.   The minus prefix inverts the order for that property.
+If `sort` contains any strings, they each name a property, or "-" followed by the name of a property, and that forms the sort order.   Without the minus, sort is ascending (like 1,2,3); with the minus sort is descending (like 3,2,1).
 
 `limit` sets the maximum number of results returned.   There is no value for unlimited; one should always consider the maximum that might reasonably be handled.
 
