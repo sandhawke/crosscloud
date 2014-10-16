@@ -131,20 +131,40 @@ Querying
 
 ```go
 
-type PageIterator interface {
+type Cursor interface {
 	func Restart()   // call to reset cursor to beginning
     func Next() page *PageState, resultsModified bool
     func EstimatedRemaining() uint
     func Error() Err
     func ContinuationFilter()  // constructs a filter that would start here
+    func QueryETag()  // the ETag of the query response
+	func Stop()
 }
 
-client.Query(filter, onlyProperties, sort, limit) PageIterator
+type Filter map[string] interface {} // subset of mongoDB
 
-client.Dump(waitNotETag)
+client.Query(filter Filter, onlyProperties, sort []string, limit uint) Cursor
 
+client.Dump(waitForNotETag) Cursor
+```
 
-// use like:
+`Dump` returns an iterator on all available pages.  For PageStore, it's all stored pages.  For PageClient, it's all cached pages.
+
+`Query` returns an iterator over all available pages which match the filter, which is a MongoDB-like QBE filter expression.  
+
+If `onlyProperties` contains any strings, only those properties are shown; the resulting page images are subset views of the actual pages.
+
+If `sort` contains any strings, they each name a property, or "-" followed by the name of a property, and that forms the sort order.   The minus prefix inverts the order for that property.
+
+`limit` sets the maximum number of results returned.   There is no value for unlimited; one should always consider the maximum that might reasonably be handled.
+
+`Cursor.ContinuationFilter()` constructs a modified version of the filter such that using it in a query would return the query results after this result.  One could, in theory, call iter.Next() once to get the first result, then use ContinuationFilter() to construct a new query, call its iter.Next once to get what would have been the second result of the original query, etc.   This is useful if a query needs to be paused and possibly never resumed, such as with a RESTful paging interface. 
+
+`Cursor.Next()` returns the next result of the query (or the first if this is the first time Next() is called for this query) and also a boolean flag to indicate whether the query result set has changed since the first result was returned for this cursor.    If a consistent query result set is needed, one must Restart whenever this happens, like this:
+
+Typical structure:
+
+```go
 q := client.Query(...)
 for (page, modified := q.Next(); page != nil; ) {
 
@@ -153,18 +173,13 @@ for (page, modified := q.Next(); page != nil; ) {
     // consider doing this:
     if modified { q.Restart();  continue }
 
-	// NOTE that page is a POINTER to an INTERNAL structure.  What
-	// happens to that structure when you call q.Next() is undefined.
-	//
-	// You MAY modify it and call client.Overlay or client.Replace to
-	// to push the modification back to the server, if you want.
-	// Don't use client.Replace if you set onlyProperties, or you'll
-	// erase all the properties you excluded.
-	// 
-}
+	// do something with 'page'
 
 ```
-     
+
+The pointer to a PageState returned by Next() is to an ''internal'' structure in the Cursor. What happens to that structure when you call q.Next() is undefined.
+
+You ''may'' modify that PageState and call client.Overlay or client.Replace to push the modification back to the server.   It is an error to call client.Replace if you set onlyProperties, since that would erase any unexpected properties.
 
 See http://stackoverflow.com/questions/14000534/what-is-most-idiomatic-way-to-create-an-iterator-in-go
 
